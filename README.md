@@ -1,1 +1,1 @@
-# JS---Pong
+# JS-Pong
